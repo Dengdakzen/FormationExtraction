@@ -1,3 +1,7 @@
 *.png
 *.jpg
 *.json
+
+!position.json
+!on-off.json
+!templates.json

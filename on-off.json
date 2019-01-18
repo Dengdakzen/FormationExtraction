@@ -1,0 +1,1524 @@
+{
+	"Events":	[{
+			"frame":	0,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	223,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	362,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	589,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	657,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	1184,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"foul"
+		}, {
+			"frame":	1231,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"end foul(no card)"
+		}, {
+			"frame":	1747,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"injury"
+		}, {
+			"frame":	3670,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	4327,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	4569,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	5349,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	5774,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	6047,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	6380,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	7178,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	7544,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	8222,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	8457,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	9260,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	9710,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	10807,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"offside"
+		}, {
+			"frame":	11298,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	12469,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	12811,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	13065,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	13649,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"corner"
+		}, {
+			"frame":	13957,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	14379,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	14801,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"foul"
+		}, {
+			"frame":	15406,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	15647,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	16105,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	17258,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	17345,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	19378,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	19491,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	20310,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	20359,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	23027,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"foul"
+		}, {
+			"frame":	23290,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	23956,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	24147,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	26023,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	26449,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	27002,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"foul"
+		}, {
+			"frame":	27231,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	27652,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"foul"
+		}, {
+			"frame":	32373,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	32824,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	32836,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	33056,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	33244,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	33465,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	33715,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	35079,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"injury"
+		}, {
+			"frame":	35843,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	37050,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	37267,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	37903,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	38432,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	38981,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	39414,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	39694,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"foul"
+		}, {
+			"frame":	39789,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	41614,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	41739,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	43511,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	43634,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	44824,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	44974,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	45146,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	45335,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	45963,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	46274,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	46433,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	46842,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	46939,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	47065,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	47195,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"foul"
+		}, {
+			"frame":	49380,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	49450,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"goal"
+		}, {
+			"frame":	50346,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	51384,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"nothing"
+		}, {
+			"frame":	51403,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"nothing"
+		}, {
+			"frame":	51724,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	51904,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	52205,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	52368,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	52566,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	52906,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	53041,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	53298,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	54025,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	54404,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	54699,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	54753,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	55392,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	55718,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	57509,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	58151,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"corner"
+		}, {
+			"frame":	58826,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	59068,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	59235,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	59458,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	59696,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	59961,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	60116,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	60331,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	62279,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	62636,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	63082,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	63324,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	63536,
+			"player":	0,
+			"team":	"Argentina",
+			"flag":	0,
+			"detail":	"outside"
+		}, {
+			"frame":	63984,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	1,
+			"detail":	"kick off"
+		}, {
+			"frame":	64766,
+			"player":	0,
+			"team":	"Brazil",
+			"flag":	0,
+			"detail":	"end"
+		},     {
+			"frame": 64767,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 65914,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 66561,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 67549,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "goal"
+		},
+		{
+			"frame": 68594,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 69208,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 69233,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 69445,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 69548,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 69698,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 69804,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 70056,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "goal"
+		},
+		{
+			"frame": 70698,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 71454,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 71870,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 72388,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 72905,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 74332,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "goal"
+		},
+		{
+			"frame": 75495,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 76253,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 77411,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 77969,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 78032,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 78250,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 78311,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 78559,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 78596,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 78997,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 79662,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 79989,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 80569,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 80912,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 80977,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 81254,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 81363,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 81644,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 81766,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 83154,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 84155,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 85904,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 86985,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 87483,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 87849,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 88689,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 89033,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 89266,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 89638,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 91047,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 91284,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 91646,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 91824,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 92331,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 92622,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 92841,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "injury"
+		},
+		{
+			"frame": 94435,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 94745,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 94940,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 95030,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 95204,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 95811,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 96081,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 96640,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 96837,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 97117,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 97413,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 98794,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 99129,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 100663,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 102749,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 102926,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 103389,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 104423,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 104923,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 105523,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 105906,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 106247,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 106741,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 106991,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 107259,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 107821,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 107897,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 109574,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "corner"
+		},
+		{
+			"frame": 110169,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 111270,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 111434,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 113363,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 114688,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 114851,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 115047,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 115804,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "corner"
+		},
+		{
+			"frame": 116401,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 116509,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "goal"
+		},
+		{
+			"frame": 117853,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 117994,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 118180,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 118496,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 118557,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 119024,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 119063,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 119473,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 119615,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 120587,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 121195,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 122047,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 122896,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 123309,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 123598,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 123898,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 124121,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 124786,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "outside"
+		},
+		{
+			"frame": 125000,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 125989,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "offside"
+		},
+		{
+			"frame": 126866,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 127473,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 127809,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 128114,
+			"player": 0,
+			"team": "Argentina",
+			"flag": 0,
+			"detail": "foul"
+		},
+		{
+			"frame": 128493,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 1,
+			"detail": "kick off"
+		},
+		{
+			"frame": 129153,
+			"player": 0,
+			"team": "Brazil",
+			"flag": 0,
+			"detail": "end"
+		}]
+}
