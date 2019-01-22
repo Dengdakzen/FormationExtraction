@@ -2,6 +2,8 @@ import numpy as np
 import json
 from GaussianClusters import GaussianCluster,Vis_Distributions
 import AffineTransformation as AT
+import matplotlib
+matplotlib.use('TkAgg')
 from matplotlib import pyplot as plt
 
 
@@ -9,7 +11,7 @@ if __name__ == "__main__":
     with open("position.json",'r') as w:
         original_data = json.load(w)
     templates, names = AT.ImportFromTemplate('templates.json')
-    k = 13000
+    k = 15000
     points = np.zeros([10,2,25])
     for j in range(25):
         for i in range(10):
@@ -17,7 +19,7 @@ if __name__ == "__main__":
             points[i,1,j] = original_data[k+j]['Argentina'][i]['y']
 
     distribution,un_normalized_pos,new_pos, indices,error,j = GaussianCluster(points)
-    # Vis_Distributions(distribution,new_pos)
+    Vis_Distributions(distribution,new_pos)
     fig, axs = plt.subplots(4, 4)
     least_err = 1000000
     least_idx = 0
@@ -36,13 +38,15 @@ if __name__ == "__main__":
         if error < least_err:
             least_err = error
             least_idx = j
+        print((int(j/4),j%4))
         ax = axs[int(j/4),j%4]
-        plt.scatter(E[:,0],E[:,1],c='r')
-        plt.scatter(D[:,0],D[:,1],c='b')
+        ax.scatter(E[:,0],E[:,1],c='r')
+        ax.scatter(D[:,0],D[:,1],c='b')
         # ax.add_patch(e1)
         # ax.add_patch(e2)
     plt.show()
     sort_error_index = np.argsort(err_array)
+    print(sort_error_index)
     # print(sort_error_index[0:5])
     # print(err_array[sort_error_index[0:5]])
     # print(names[sort_error_index[0:5]])

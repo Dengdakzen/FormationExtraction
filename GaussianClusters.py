@@ -1,6 +1,8 @@
 import numpy as np
 import json
 from scipy.optimize import linear_sum_assignment
+import matplotlib
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 from matplotlib import patches
 
