@@ -80,9 +80,11 @@ def EvaluateTemplateEntropy(distribution,template_vec,affine_matrix):
     c3 = 1/(distribution[:,2] * distribution[:,2])[:,np.newaxis]
     c4 = 1/(distribution[:,3] * distribution[:,3])[:,np.newaxis]
     p = np.sqrt(c1)*c2/(2*np.pi)*np.exp(-0.5*c1*(c3*(x - miu1)**2 - 2*c2*rho*(x - miu1)*(y - miu2) + c4*(y - miu2)**2))
-    loss_matrix = np.exp(p)
+    loss_matrix = np.exp(-p)
+    print(loss_matrix)
     row_ind, col_ind = linear_sum_assignment(loss_matrix)
     ps = p[row_ind, col_ind]
+    # print(ps)
     plogp = -ps*np.log2(ps + 0.1)
     return np.sum(plogp)
 
@@ -139,12 +141,9 @@ if __name__ == "__main__":
         T,err,i,indices = AT.icp(C,D)
         E = AT.Project(C,T)
         ProjectedToTemplate.append(E.tolist())
-        error = AT.EvaluateTemplateError(C,D,T)
-        # error = EvaluateTemplateEntropy(distribution,D,T)
+        # error = AT.EvaluateTemplateError(C,D,T)
+        error = EvaluateTemplateEntropy(distribution,D,T)
         err_array[j] = error
-        if error < least_err:
-            least_err = error
-            least_idx = j
     sort_error_index = np.argsort(err_array)
     print(err_array[sort_error_index])
     for index,j in enumerate(sort_error_index):
