@@ -162,7 +162,7 @@ if __name__ == "__main__":
 
     # plt.plot(point_x_1st,point_y_1st)
     # plt.show()
-    team_label = 1
+    team_label = 0
     intevals = []
     if point_y_1st[0] == team_label:
         start  = True
@@ -197,7 +197,7 @@ if __name__ == "__main__":
         original_data = json.load(w)['Trajectory']
     names = []
     # print(original_data)
-    team_offset = 1
+    team_offset = 19
     timelen = 5000
     points = np.zeros([10,2,timelen])
     inteval_idx = 0
